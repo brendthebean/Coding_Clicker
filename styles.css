@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    background-color: black;
+    justify-content:center;
+}
+
+h1 {
+    color: white;
+}
+
+#clicker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#codeToClick {
+    height:100px; 
+    width: 200px;
+    border-radius: 90%;
+    justify-content: center; 
+    margin-top: 0;   
+}
+
+#totalScore {
+    display: flex;
+    font-size: 150px;
+    margin : 50px;
+    margin-top: 0px;
+    justify-content: center;
+}
